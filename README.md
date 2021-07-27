@@ -27,10 +27,6 @@ RUN `docker-compose up -d on the root directory of the project`
 - Answer a specific question
 - Subscribe to a question
 
-## Cache
-
-Request for films are cached using redis to reduce the api calls to the swapi api and also increase the speed of the application,
-
 # Token Management
 
 JWT was used for token along with redis for implementing refresh tokens
