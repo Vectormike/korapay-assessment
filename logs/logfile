@@ -1,0 +1,604 @@
+info: Request🏷️: Jul-18-2021 19:22:07: Server server started at http://localhost:3000
+info: Request🏷️: Jul-18-2021 19:22:07: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-18-2021 19:22:07: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-18-2021 19:22:07: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-18-2021 19:22:08: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-18-2021 19:22:09: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-18-2021 19:22:10: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-18-2021 19:22:13: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-18-2021 19:22:18: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-18-2021 19:22:26: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-18-2021 19:22:40: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-18-2021 19:23:06: Server server started at http://localhost:3000
+info: Request🏷️: Jul-18-2021 20:22:34: Server server started at http://localhost:3000
+info: Request🏷️: Jul-18-2021 22:39:20: Server server started at http://localhost:3000
+info: Request🏷️: Jul-18-2021 22:43:50: Server server started at http://localhost:3000
+info: Request🏷️: Jul-18-2021 22:44:15: Server server started at http://localhost:3000
+info: Request🏷️: Jul-18-2021 22:45:06: Server server started at http://localhost:3000
+info: Request🏷️: Jul-18-2021 22:50:26: Server server started at http://localhost:3000
+info: Request🏷️: Jul-18-2021 22:50:34: Server server started at http://localhost:3000
+info: Request🏷️: Jul-18-2021 22:51:27: Server server started at http://localhost:3000
+info: Request🏷️: Jul-18-2021 22:52:25: Server server started at http://localhost:3000
+info: Request🏷️: Jul-18-2021 23:26:53: Server server started at http://localhost:3000
+info: Request🏷️: Jul-18-2021 23:57:13: Server server started at http://localhost:3000
+info: Request🏷️: Jul-18-2021 23:57:31: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 13:46:43: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 13:55:33: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 13:56:23: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 13:57:49: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 14:06:13: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 14:14:35: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 14:51:58: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 14:53:07: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 19:56:58: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 19:59:18: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 20:03:11: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 20:05:51: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 20:06:25: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 20:21:58: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 20:23:30: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 20:30:50: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 20:32:46: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 20:35:32: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 20:36:30: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 20:36:51: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 20:38:15: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 23:31:36: Server server started at http://localhost:3000
+info: Request🏷️: Jul-19-2021 23:51:20: Server server started at http://localhost:3000
+info: Request🏷️: Jul-21-2021 10:11:02: Server server started at http://localhost:3000
+error: Request🏷️: Jul-21-2021 16:18:05: uncaughtException: Cannot read property 'on' of undefined
+TypeError: Cannot read property 'on' of undefined
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/app.js:31:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/server.js:12:29)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+info: Request🏷️: Jul-21-2021 16:18:05: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+error: Request🏷️: Jul-21-2021 18:51:22: uncaughtException: Cannot read property 'on' of undefined
+TypeError: Cannot read property 'on' of undefined
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/app.js:31:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/server.js:12:29)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+info: Request🏷️: Jul-21-2021 18:51:22: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+error: Request🏷️: Jul-21-2021 18:51:25: uncaughtException: Cannot read property 'on' of undefined
+TypeError: Cannot read property 'on' of undefined
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/app.js:31:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/server.js:12:29)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+info: Request🏷️: Jul-21-2021 18:51:25: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+error: Request🏷️: Jul-23-2021 15:30:11: uncaughtException: Cannot read property 'on' of undefined
+TypeError: Cannot read property 'on' of undefined
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/app.js:31:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/server.js:12:29)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+info: Request🏷️: Jul-23-2021 15:30:11: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+error: Request🏷️: Jul-23-2021 15:31:50: uncaughtException: Cannot read property 'on' of undefined
+TypeError: Cannot read property 'on' of undefined
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/app.js:31:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/server.js:12:29)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+info: Request🏷️: Jul-23-2021 15:31:50: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+error: Request🏷️: Jul-23-2021 15:35:19: uncaughtException: Cannot read property 'on' of undefined
+TypeError: Cannot read property 'on' of undefined
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/app.js:31:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/server.js:12:29)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+info: Request🏷️: Jul-23-2021 15:35:20: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+error: Request🏷️: Jul-23-2021 15:36:45: uncaughtException: Cannot read property 'on' of undefined
+TypeError: Cannot read property 'on' of undefined
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/app.js:31:32)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/server.js:12:29)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+info: Request🏷️: Jul-23-2021 15:37:14: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 15:37:21: ::1 - - [23/Jul/2021:14:37:21 +0000] "GET /welcome HTTP/1.1" 200 38 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-23-2021 15:38:22: ::1 - - [23/Jul/2021:14:38:22 +0000] "POST /auth/register HTTP/1.1" 404 40 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-23-2021 15:38:47: ::1 - - [23/Jul/2021:14:38:47 +0000] "POST /api/auth/register HTTP/1.1" 201 121 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-23-2021 15:39:39: ::1 - - [23/Jul/2021:14:39:39 +0000] "POST /api/auth/login HTTP/1.1" - - "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-23-2021 15:40:31: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 15:41:19: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 15:42:01: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 15:42:28: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 15:43:11: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 15:43:24: ::1 - - [23/Jul/2021:14:43:24 +0000] "POST /api/auth/login HTTP/1.1" - - "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-23-2021 15:43:37: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 15:43:51: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 15:44:39: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 15:44:39: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:44:40: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:44:40: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:44:41: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:44:42: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:44:43: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:44:46: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:44:51: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:44:59: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:45:04: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 15:45:04: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:45:04: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:45:04: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:45:05: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:45:06: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:45:07: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:45:10: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:45:15: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:45:23: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:45:37: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:46:01: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:46:41: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED 127.0.0.1:6379
+info: Request🏷️: Jul-23-2021 15:47:01: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 15:47:02: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 15:47:02: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 15:47:02: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 15:47:03: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 15:47:04: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 15:47:05: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 15:47:08: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 15:47:13: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 15:47:21: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 15:47:35: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 15:47:59: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 15:48:39: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 15:49:48: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 15:51:45: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 15:55:03: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:00:40: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:04:58: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 16:04:58: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:04:58: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:04:58: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:04:59: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:05:00: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:05:02: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:05:05: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:05:09: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:05:18: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:05:32: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:05:44: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 16:05:44: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:62932)
+info: Request🏷️: Jul-23-2021 16:05:44: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:62933)
+info: Request🏷️: Jul-23-2021 16:05:44: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:62934)
+info: Request🏷️: Jul-23-2021 16:05:45: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:62935)
+info: Request🏷️: Jul-23-2021 16:05:46: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:62936)
+info: Request🏷️: Jul-23-2021 16:05:48: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:62937)
+info: Request🏷️: Jul-23-2021 16:05:50: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:62941)
+info: Request🏷️: Jul-23-2021 16:05:55: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:62942)
+info: Request🏷️: Jul-23-2021 16:06:04: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:62943)
+info: Request🏷️: Jul-23-2021 16:06:18: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:62945)
+info: Request🏷️: Jul-23-2021 16:06:41: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:62960)
+info: Request🏷️: Jul-23-2021 16:07:22: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:62964)
+info: Request🏷️: Jul-23-2021 16:08:30: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:62977)
+info: Request🏷️: Jul-23-2021 16:08:51: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 16:08:51: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:08:52: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:08:52: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:08:53: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:08:54: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:08:55: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:08:58: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:09:03: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:09:11: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:09:25: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:09:49: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:11:22: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 16:11:22: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:63003)
+info: Request🏷️: Jul-23-2021 16:11:22: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:63004)
+info: Request🏷️: Jul-23-2021 16:11:23: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:63005)
+info: Request🏷️: Jul-23-2021 16:11:23: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:63006)
+info: Request🏷️: Jul-23-2021 16:11:24: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:63007)
+info: Request🏷️: Jul-23-2021 16:11:26: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:63008)
+info: Request🏷️: Jul-23-2021 16:11:29: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:63009)
+info: Request🏷️: Jul-23-2021 16:11:34: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:63011)
+info: Request🏷️: Jul-23-2021 16:11:42: Redis connection to 6379:6379 failed - connect EHOSTUNREACH 0.0.24.235:6379 - Local (192.168.43.2:63012)
+info: Request🏷️: Jul-23-2021 16:12:03: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 16:12:03: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:12:03: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:12:04: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:12:04: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:12:05: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:12:07: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:12:10: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:12:15: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:12:23: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:12:37: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:13:00: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:13:45: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 16:13:45: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:13:45: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:13:45: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:13:46: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:13:47: Redis connection to redis-server:6379 failed - getaddrinfo ENOTFOUND redis-server
+info: Request🏷️: Jul-23-2021 16:13:53: Server server started at http://localhost:9000
+info: Request🏷️: Jul-23-2021 16:13:53: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:13:54: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:13:54: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:13:54: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:13:55: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:13:57: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:14:00: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:14:05: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:14:13: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:14:27: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:14:51: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-23-2021 16:15:31: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+error: Request🏷️: Jul-23-2021 18:39:01: uncaughtException: listen EADDRINUSE: address already in use :::9000
+Error: listen EADDRINUSE: address already in use :::9000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/macbookpro/Desktop/Projects/korapay-assessment/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/server.js:14:15)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+info: Request🏷️: Jul-23-2021 18:39:01: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+error: Request🏷️: Jul-25-2021 19:41:09: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/macbookpro/Desktop/Projects/korapay-assessment/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/server.js:14:15)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+error: Request🏷️: Jul-25-2021 19:44:44: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1318:16)
+    at listenInCluster (net.js:1366:12)
+    at Server.listen (net.js:1452:7)
+    at Function.listen (/Users/macbookpro/Desktop/Projects/korapay-assessment/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/server.js:14:15)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:72:12)
+info: Request🏷️: Jul-25-2021 19:44:44: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:45:46: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 19:45:46: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:45:46: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:45:46: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:45:47: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:45:48: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:45:49: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:45:52: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:45:57: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:46:05: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:46:19: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:46:43: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:47:23: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:48:32: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:48:42: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 19:48:42: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:48:43: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:48:43: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:48:44: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:48:45: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:48:46: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:48:49: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:48:54: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:49:02: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:49:16: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:49:36: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 19:49:36: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:49:36: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:49:36: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:49:37: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:49:38: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:49:39: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:49:42: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:49:47: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:49:55: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:50:09: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:50:33: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:51:13: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:52:22: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:54:18: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:57:37: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:58:41: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 19:58:41: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:58:42: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:58:42: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:58:43: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:58:44: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:58:45: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:58:48: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:58:53: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:59:01: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:59:15: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-25-2021 19:59:33: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:00:11: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:00:47: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:01:12: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:01:31: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:01:47: ::1 - - [25/Jul/2021:19:01:47 +0000] "POST /api/auth/login HTTP/1.1" - - "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:02:01: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:02:38: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:02:58: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:03:26: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:06:35: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:06:38: ::1 - - [25/Jul/2021:19:06:38 +0000] "POST /api/auth/login HTTP/1.1" 200 587 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:10:45: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:10:55: ::1 - - [25/Jul/2021:19:10:55 +0000] "POST /api/auth/login HTTP/1.1" 200 587 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:12:38: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:15:36: ::1 - - [25/Jul/2021:19:15:36 +0000] "POST /api/questions HTTP/1.1" 404 40 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:16:28: ::1 - - [25/Jul/2021:19:16:28 +0000] "POST /api/questions HTTP/1.1" 404 40 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:18:06: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:18:07: {"id":1,"author_id":1,"title":null,"text":null,"tags":null,"score":null,"vote_id":null,"answer_id":null,"role":"user","createdAt":"2021-07-25T19:18:07.000Z","updatedAt":"2021-07-25T19:18:07.000Z"}
+info: Request🏷️: Jul-25-2021 20:18:07: ::1 - - [25/Jul/2021:19:18:07 +0000] "POST /api/questions HTTP/1.1" 200 284 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:19:05: {"id":2,"author_id":1,"title":"JavaScript","text":"Why is JS stupid?","tags":null,"score":null,"vote_id":null,"answer_id":null,"role":"user","createdAt":"2021-07-25T19:19:05.000Z","updatedAt":"2021-07-25T19:19:05.000Z"}
+info: Request🏷️: Jul-25-2021 20:19:05: ::1 - - [25/Jul/2021:19:19:05 +0000] "POST /api/questions HTTP/1.1" 200 307 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:19:52: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:25:14: {"id":3,"author_id":1,"title":"JavaScript","text":"Why is JS stupid?","tags":null,"score":null,"vote_id":null,"answer_id":null,"role":"user","createdAt":"2021-07-25T19:25:14.000Z","updatedAt":"2021-07-25T19:25:14.000Z"}
+info: Request🏷️: Jul-25-2021 20:25:14: ::1 - - [25/Jul/2021:19:25:14 +0000] "POST /api/questions HTTP/1.1" 200 307 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:28:15: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:29:04: {"id":4,"author_id":1,"title":null,"text":"Because it is.","tags":null,"score":null,"vote_id":null,"answer_id":null,"role":"user","createdAt":"2021-07-25T19:29:04.000Z","updatedAt":"2021-07-25T19:29:04.000Z"}
+info: Request🏷️: Jul-25-2021 20:29:04: ::1 - - [25/Jul/2021:19:29:04 +0000] "POST /api/questions?id=2 HTTP/1.1" 200 296 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:29:56: {"name":"DBError","nativeError":{"code":"ER_WRONG_VALUE_COUNT_ON_ROW","errno":1136,"sqlState":"21S01","sqlMessage":"Column count doesn't match value count at row 1"},"client":"mysql"}
+info: Request🏷️: Jul-25-2021 20:29:56: insert into `questions` (`answer_id`) values ({"text":"Because it is.","author_id":1,"id":1}) - Column count doesn't match value count at row 1
+info: Request🏷️: Jul-25-2021 20:29:56: request>>{"text":"Because it is."}
+info: Request🏷️: Jul-25-2021 20:29:56: ::1 - - [25/Jul/2021:19:29:56 +0000] "POST /api/answers?id=2 HTTP/1.1" 500 449 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:32:41: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:32:42: {"name":"DBError","nativeError":{"code":"ER_WRONG_VALUE_COUNT_ON_ROW","errno":1136,"sqlState":"21S01","sqlMessage":"Column count doesn't match value count at row 1"},"client":"mysql"}
+info: Request🏷️: Jul-25-2021 20:32:42: insert into `questions` (`answer_id`) values ({"text":"Because it is.","author_id":1,"id":2}) - Column count doesn't match value count at row 1
+info: Request🏷️: Jul-25-2021 20:32:42: request>>{"text":"Because it is."}
+info: Request🏷️: Jul-25-2021 20:32:42: ::1 - - [25/Jul/2021:19:32:42 +0000] "POST /api/answers?id=2 HTTP/1.1" 500 449 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:33:25: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:34:37: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:34:38: {"name":"DBError","nativeError":{"code":"ER_WRONG_VALUE_COUNT_ON_ROW","errno":1136,"sqlState":"21S01","sqlMessage":"Column count doesn't match value count at row 1"},"client":"mysql"}
+info: Request🏷️: Jul-25-2021 20:34:38: insert into `questions` (`answer_id`) values ({"text":"Because it is.","author_id":1,"id":3}) - Column count doesn't match value count at row 1
+info: Request🏷️: Jul-25-2021 20:34:38: request>>{"text":"Because it is."}
+info: Request🏷️: Jul-25-2021 20:34:38: ::1 - - [25/Jul/2021:19:34:38 +0000] "POST /api/answers?id=2 HTTP/1.1" 500 449 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:35:42: {"name":"DBError","nativeError":{"code":"ER_WRONG_VALUE_COUNT_ON_ROW","errno":1136,"sqlState":"21S01","sqlMessage":"Column count doesn't match value count at row 1"},"client":"mysql"}
+info: Request🏷️: Jul-25-2021 20:35:42: insert into `questions` (`answer_id`) values ({"text":"Because it is.","author_id":1,"id":4}) - Column count doesn't match value count at row 1
+info: Request🏷️: Jul-25-2021 20:35:42: request>>{"text":"Because it is."}
+info: Request🏷️: Jul-25-2021 20:35:42: ::1 - - [25/Jul/2021:19:35:42 +0000] "POST /api/answers?questionId=2 HTTP/1.1" 500 449 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:36:15: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:36:18: {"name":"DBError","nativeError":{"code":"ER_WRONG_VALUE_COUNT_ON_ROW","errno":1136,"sqlState":"21S01","sqlMessage":"Column count doesn't match value count at row 1"},"client":"mysql"}
+info: Request🏷️: Jul-25-2021 20:36:18: insert into `questions` (`answer_id`) values ({"text":"Because it is.","author_id":1,"id":5}) - Column count doesn't match value count at row 1
+info: Request🏷️: Jul-25-2021 20:36:18: request>>{"text":"Because it is."}
+info: Request🏷️: Jul-25-2021 20:36:18: ::1 - - [25/Jul/2021:19:36:18 +0000] "POST /api/answers?questionId=2 HTTP/1.1" 500 449 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:36:55: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:36:57: {"name":"DBError","nativeError":{"code":"ER_WRONG_VALUE_COUNT_ON_ROW","errno":1136,"sqlState":"21S01","sqlMessage":"Column count doesn't match value count at row 1"},"client":"mysql"}
+info: Request🏷️: Jul-25-2021 20:36:57: insert into `questions` (`answer_id`) values ({"text":"Because it is.","author_id":1,"id":6}) - Column count doesn't match value count at row 1
+info: Request🏷️: Jul-25-2021 20:36:57: request>>{"text":"Because it is."}
+info: Request🏷️: Jul-25-2021 20:36:57: ::1 - - [25/Jul/2021:19:36:57 +0000] "POST /api/answers?questionId=2 HTTP/1.1" 500 449 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:37:11: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:37:25: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:37:41: {"name":"DBError","nativeError":{"code":"ER_WRONG_VALUE_COUNT_ON_ROW","errno":1136,"sqlState":"21S01","sqlMessage":"Column count doesn't match value count at row 1"},"client":"mysql"}
+info: Request🏷️: Jul-25-2021 20:37:41: insert into `questions` (`answer_id`) values ({"text":"Because it is.","author_id":1,"id":7}) - Column count doesn't match value count at row 1
+info: Request🏷️: Jul-25-2021 20:37:41: request>>{"text":"Because it is."}
+info: Request🏷️: Jul-25-2021 20:37:41: ::1 - - [25/Jul/2021:19:37:41 +0000] "POST /api/answers?questionId=2 HTTP/1.1" 500 449 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:38:28: Server server started at http://localhost:5000
+info: Request🏷️: Jul-25-2021 20:38:28: {"name":"DBError","nativeError":{"code":"ER_WRONG_VALUE_COUNT_ON_ROW","errno":1136,"sqlState":"21S01","sqlMessage":"Column count doesn't match value count at row 1"},"client":"mysql"}
+info: Request🏷️: Jul-25-2021 20:38:28: insert into `questions` (`answer_id`) values ({"text":"Because it is.","author_id":1,"id":8}) - Column count doesn't match value count at row 1
+info: Request🏷️: Jul-25-2021 20:38:28: request>>{"text":"Because it is."}
+info: Request🏷️: Jul-25-2021 20:38:28: ::1 - - [25/Jul/2021:19:38:28 +0000] "POST /api/answers?questionId=2 HTTP/1.1" 500 449 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-25-2021 20:38:29: {"name":"DBError","nativeError":{"code":"ER_WRONG_VALUE_COUNT_ON_ROW","errno":1136,"sqlState":"21S01","sqlMessage":"Column count doesn't match value count at row 1"},"client":"mysql"}
+info: Request🏷️: Jul-25-2021 20:38:29: insert into `questions` (`answer_id`) values ({"text":"Because it is.","author_id":1,"id":9}) - Column count doesn't match value count at row 1
+info: Request🏷️: Jul-25-2021 20:38:29: request>>{"text":"Because it is."}
+info: Request🏷️: Jul-25-2021 20:38:29: ::1 - - [25/Jul/2021:19:38:29 +0000] "POST /api/answers?questionId=2 HTTP/1.1" 500 449 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 09:32:44: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 09:33:23: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 09:33:27: ::1 - - [26/Jul/2021:08:33:27 +0000] "POST /api/answers?questionId=2 HTTP/1.1" 404 40 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 09:34:04: {"name":"DBError","nativeError":{"code":"ER_WRONG_VALUE_COUNT_ON_ROW","errno":1136,"sqlState":"21S01","sqlMessage":"Column count doesn't match value count at row 1"},"client":"mysql"}
+info: Request🏷️: Jul-26-2021 09:34:04: insert into `questions` (`answer_id`) values ({"text":"Because it is.","author_id":1,"question_id":"2","id":10}) - Column count doesn't match value count at row 1
+info: Request🏷️: Jul-26-2021 09:34:04: request>>{"text":"Because it is."}
+info: Request🏷️: Jul-26-2021 09:34:04: ::1 - - [26/Jul/2021:08:34:04 +0000] "POST /api/answers/2 HTTP/1.1" 500 472 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 09:34:59: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 09:35:03: ::1 - - [26/Jul/2021:08:35:03 +0000] "POST /api/answers/2 HTTP/1.1" 201 229 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 09:38:30: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 09:38:47: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 09:39:26: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 09:40:52: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 09:42:01: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 09:46:23: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 09:51:21: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 09:54:54: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 09:55:16: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 10:11:28: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 10:31:41: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 10:32:54: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 10:33:49: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 10:36:10: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 10:36:52: Making an upvote
+info: Request🏷️: Jul-26-2021 10:36:52: ::1 - - [26/Jul/2021:09:36:52 +0000] "POST /api/vote/2 HTTP/1.1" 201 77 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 10:37:14: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 10:38:38: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 10:38:41: Making an upvote
+info: Request🏷️: Jul-26-2021 10:38:41: ::1 - - [26/Jul/2021:09:38:41 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 10:39:07: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 10:39:19: Making an upvote
+info: Request🏷️: Jul-26-2021 10:39:19: ::1 - - [26/Jul/2021:09:39:19 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 10:40:05: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 10:40:32: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:27:15: Making an upvote
+info: Request🏷️: Jul-26-2021 12:27:16: ::1 - - [26/Jul/2021:11:27:16 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:32:12: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:32:13: Making an upvote
+info: Request🏷️: Jul-26-2021 12:32:13: ::1 - - [26/Jul/2021:11:32:13 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:35:15: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:35:29: Making an upvote
+info: Request🏷️: Jul-26-2021 12:35:29: ::1 - - [26/Jul/2021:11:35:29 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:35:58: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:36:07: Making an upvote
+info: Request🏷️: Jul-26-2021 12:36:07: ::1 - - [26/Jul/2021:11:36:07 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:37:17: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:37:26: Making an upvote
+info: Request🏷️: Jul-26-2021 12:37:26: ::1 - - [26/Jul/2021:11:37:26 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:37:28: Making an upvote
+info: Request🏷️: Jul-26-2021 12:37:28: ::1 - - [26/Jul/2021:11:37:28 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:37:38: Making an upvote
+info: Request🏷️: Jul-26-2021 12:37:38: ::1 - - [26/Jul/2021:11:37:38 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:38:53: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:38:57: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:39:01: Making an upvote
+info: Request🏷️: Jul-26-2021 12:39:01: ::1 - - [26/Jul/2021:11:39:01 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:39:31: Making an upvote
+info: Request🏷️: Jul-26-2021 12:39:31: ::1 - - [26/Jul/2021:11:39:31 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:40:03: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:40:53: Making an upvote
+info: Request🏷️: Jul-26-2021 12:40:53: ::1 - - [26/Jul/2021:11:40:53 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:41:24: Making an upvote
+info: Request🏷️: Jul-26-2021 12:41:24: ::1 - - [26/Jul/2021:11:41:24 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:41:25: Making an upvote
+info: Request🏷️: Jul-26-2021 12:41:25: ::1 - - [26/Jul/2021:11:41:25 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:44:31: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:44:35: Making an upvote
+info: Request🏷️: Jul-26-2021 12:44:35: ::1 - - [26/Jul/2021:11:44:35 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:45:38: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:45:44: Making an upvote
+info: Request🏷️: Jul-26-2021 12:45:44: ::1 - - [26/Jul/2021:11:45:44 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:45:56: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:46:02: Making an upvote
+info: Request🏷️: Jul-26-2021 12:46:02: ::1 - - [26/Jul/2021:11:46:02 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:46:22: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:46:25: Making an upvote
+info: Request🏷️: Jul-26-2021 12:46:26: ::1 - - [26/Jul/2021:11:46:26 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:46:41: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:46:45: Making an upvote
+info: Request🏷️: Jul-26-2021 12:46:45: ::1 - - [26/Jul/2021:11:46:45 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:47:05: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:47:06: Making an upvote
+info: Request🏷️: Jul-26-2021 12:47:06: ::1 - - [26/Jul/2021:11:47:06 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:47:18: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:47:21: Making an upvote
+info: Request🏷️: Jul-26-2021 12:47:21: ::1 - - [26/Jul/2021:11:47:21 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:47:58: Making an upvote
+info: Request🏷️: Jul-26-2021 12:47:58: ::1 - - [26/Jul/2021:11:47:58 +0000] "POST /api/vote/2 HTTP/1.1" 201 75 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:51:14: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:51:18: Making an upvote
+info: Request🏷️: Jul-26-2021 12:51:18: ::1 - - [26/Jul/2021:11:51:18 +0000] "POST /api/vote/2 HTTP/1.1" 201 126 "-" "PostmanRuntime/7.28.0"
+
+info: Request🏷️: Jul-26-2021 12:54:42: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:55:52: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 12:56:25: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 13:19:49: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 13:37:22: Server server started at http://localhost:5000
+error: Request🏷️: Jul-26-2021 13:39:49: uncaughtException: Cannot read property 'on' of undefined
+TypeError: Cannot read property 'on' of undefined
+    at runRedisAsync (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/app.js:32:36)
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/app.js:36:1)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1092:10)
+    at Module.load (internal/modules/cjs/loader.js:928:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:769:14)
+    at Module.require (internal/modules/cjs/loader.js:952:19)
+    at require (internal/modules/cjs/helpers.js:88:18)
+    at Object.<anonymous> (/Users/macbookpro/Desktop/Projects/korapay-assessment/dist/src/server.js:12:29)
+    at Module._compile (internal/modules/cjs/loader.js:1063:30)
+info: Request🏷️: Jul-26-2021 13:46:00: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 13:47:02: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 13:47:12: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 13:47:54: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 13:48:28: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 13:48:29: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-26-2021 13:48:29: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-26-2021 13:48:29: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-26-2021 13:48:30: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-26-2021 13:48:31: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-26-2021 13:48:32: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-26-2021 13:48:35: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-26-2021 13:48:40: Redis connection to redis:6379 failed - getaddrinfo ENOTFOUND redis
+info: Request🏷️: Jul-26-2021 13:48:46: Server server started at http://localhost:5000
+info: Request🏷️: Jul-26-2021 13:55:44: Server server started at http://localhost:5000
