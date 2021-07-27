@@ -41,3 +41,8 @@ Logging was implemented with winton and elastic search
 #### Requirements not covered
 
 - 85% test coverage not achieved
+
+#### Issues faced
+
+- No free time to take on the assessment.
+- Subscribe feature not clear(By the way, I implemented a Redis Pub/Sub for it).
