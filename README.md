@@ -20,8 +20,6 @@ RUN `docker-compose up -d on the root directory of the project`
 
 - Create a user account
 - Login a user
-- Logout a user
-- Reset a user password
 - Fetch a list of all question
 - Ask a question
 - Answer a specific question
