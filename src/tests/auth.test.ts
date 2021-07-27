@@ -46,7 +46,7 @@ describe('User and Authentication management', () => {
      })
      console.log("STATUS_RES",res.body.data)
      expect(res.status).toBe(201)
-     expect(res.body.data.firstName).toEqual('Emmanuel')
+     expect(res.body.data.firstName).toEqual('Victor')
      done()
   })
 
