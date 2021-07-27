@@ -1,6 +1,6 @@
 # Stackoverflow API
 
-This application allows you to register, login and get film data and also comment on film data.
+This application allows you to register, login, ask Questions, reply and subscribe to Questions.
 
 # STEPS TO RUN APP
 
@@ -23,6 +23,7 @@ RUN `docker-compose up -d on the root directory of the project`
 - Logout a user
 - Reset a user password
 - Fetch a list of all question
+- Ask a question
 - Answer a specific question
 - Subscribe to a question
 
@@ -41,5 +42,8 @@ Logging was implemented with winton and elastic search
 
 #### POSTMAN API Documentation.
 
-[Postman Api documentation](https://documenter.getpostman.com/view/6226738/TzY7dDbr)
-# kora_ass
+[Postman Api documentation](https://documenter.getpostman.com/view/5622145/TzsbLSvL)
+
+#### Requirements not covered
+
+- 85% test coverage not achieved

@@ -82,12 +82,7 @@ export class QuestionService {
     try {
       const answers = await this.questionModel.query().findOne(questionId)
 
-      redisClient.subscribe('answer-notify').then((result) => {
-        console.log("Hi");
-        
-      }).catch((err) => {
-        
-      });
+      redisClient.subscribe('answer-notify')
       return answers
     } catch (error) {
       logger.info(JSON.stringify(error))
