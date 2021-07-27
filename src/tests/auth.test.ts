@@ -41,10 +41,8 @@ describe('User and Authentication management', () => {
   it('should register a user', async (done) => {
   
     const res = await request(app).post(`/api/auth/register`).send({
-      "firstName": "Emmanuel",
-      "lastName": "Ogbiyoyo",
-      "email": "nuel@nueljoe.com",
-      "password": "Miracle123ogbiyoyo"
+      "username": "Victor",
+      "password": "Redeemer"
      })
      console.log("STATUS_RES",res.body.data)
      expect(res.status).toBe(201)
@@ -55,24 +53,14 @@ describe('User and Authentication management', () => {
   it('should login a user', async (done) => {
   
     const res = await request(app).post(`/api/auth/login`).send({
-      "email": "nuel@nueljoe.com",
-      "password": "Miracle123ogbiyoyo"
+      "username": "Victor",
+      "password": "Redeemer"
      })
     
      expect(res.status).toBe(200)
      expect(res.body.message).toEqual('Logged in successfully')
    
      refreshToken = res.body.data.refreshToken
-     done()
-  })
-  
-  it('should logout a user', async (done) => {
-  
-    const res = await request(app).post(`/api/auth/logout`).send({
-      "refreshToken": refreshToken
-     })
-     expect(res.body.message).toEqual('Successfully logged out')
-     expect(res.status).toBe(200)
      done()
   })
 })
